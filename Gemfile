@@ -39,6 +39,8 @@ gem "thruster", require: false
 
 gem 'dotenv-rails', groups: [:development, :test]
 
+gem 'bcrypt', '~> 3.1.18'
+
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 
